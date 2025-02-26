@@ -22,3 +22,8 @@ for l in range(linhas):
 
 print("matriz: ")
 imprimeMatrizDicionarios(m, linhas, colunas)
+
+'''SAÍDA
+matriz:
+ 1.00  2.00
+ 3.00  4.00'''
