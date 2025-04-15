@@ -1,8 +1,8 @@
 '''Crie um dicionário d e coloque nele seus
 dados: nome, idade, telefone,endereço.'''
 
-d = {'nome': 'Júlia', 'idade': 18, 'telefone': '998687041', 'endereco': {
-    'rua':'central', 'bairro': 'timbaubinha', 'cidade': 'timbaúba', 'cep': '5587000', 'número': 12}}
+d = {'nome': 'Elis', 'idade': 23, 'telefone': '821192038', 'endereco': {
+    'rua':'central', 'bairro': 'la havre', 'cidade': 'french', 'cep': '9038000', 'número': 28}}
 print('Bem-vindo(a) a consulta de dados!')
 
 '''Usando o dicionário d criado
